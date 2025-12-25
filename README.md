@@ -1,4 +1,4 @@
-# StudyTrack
+
 # StudyTrack – Daily Study & Productivity Dashboard
 
 A modern **React-based study tracker** to help students and learners stay productive by tracking daily study tasks, visualizing progress through graphs, and setting study alarms.
