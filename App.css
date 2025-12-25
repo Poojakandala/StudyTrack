@@ -1,0 +1,22 @@
+body {
+  background: #0f172a;
+  color: white;
+  font-family: Arial;
+}
+
+.app {
+  padding: 20px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 500px;
+  border-radius: 10px;
+}
+
+input, button {
+  padding: 8px;
+  margin: 5px;
+}
