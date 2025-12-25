@@ -28,8 +28,3 @@ A modern **React-based study tracker** to help students and learners stay produc
 
 ---
 
-## Installation & Usage
-
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/StudyTrack.git
